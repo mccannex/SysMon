@@ -28,6 +28,6 @@ example/build/
 example/sdkconfig
 example/sdkconfig.old
 
-# WiFi credentials (example)
-example/main/wifi_credentials.h
+# Make sure we include the sample config
+# example/main/wifi_credentials.h
 
